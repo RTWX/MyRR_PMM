@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+<<<<<<< HEAD
+	<title>Web page with image</title>
+</head>
+<body>
+	<img src="./images2/bird2.jpg"/>
+=======
+	<title>Web page with styles</title>
+</head>
+<body class="style">
+
+>>>>>>> 8aedfc2 (changed index2.html)
+</body>
